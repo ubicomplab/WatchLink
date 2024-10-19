@@ -1,0 +1,6 @@
+numpy==1.26.3
+pandas==2.0.1
+matplotlib==3.7.1
+fitz==0.0.1.dev2
+opencv-python==4.7.0.72
+PyMuPDF==1.21.1
